@@ -1,2 +1,2 @@
 # Cyrax
-Sistema operacional open source 32-bit para x86
+Sistema operacional open source de 32 bits para arquitetura x86

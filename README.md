@@ -1,11 +1,9 @@
 # Cyrax
-<i>Versão: 0.2</i>
+<i>Version: 0.2</i>
 
-<b>Cyrax</b> é um sistema operacional open source de 32 bits desenvolvido para arquitetura x86.
-Meu objetivo é aprender a desenvolver um sistema operacional do zero, apenas para 
-conhecimento e por diversão.
+<b>Cyrax</b> is an open source 32-bit operating system designed for x86 architecture. My goal is to learn how to develop an operating system from scratch, just for knowledge and fun.
 
-Fique a vontade para melhorar ou fazer a sua versão.
+Feel free to improve or make your version.
 
-<b>Minha próxima meta:</b><br>
-Implementar um compilador gcc<br>
+<b>My next goal:</b><br>
+Implement a gcc compiler<br>
